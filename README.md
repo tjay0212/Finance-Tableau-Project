@@ -13,8 +13,8 @@ To identify which products, regions, and customer segments drive the most revenu
 ---
 
 ## Dashboard Preview
+<img width="1196" height="799" alt="Screenshot 2026-06-02 at 1 58 10" src="https://github.com/user-attachments/assets/774e7ed2-270d-4821-a8f1-66880cc68abb" />
 
-![alt text](https://github.com/[tjay0212]/[Finance-Tableau-Project]/blob/[branch]/image.jpg?raw=true)
 
 ---
 
