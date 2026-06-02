@@ -76,12 +76,4 @@ Sample - Superstore — Tableau's built-in fictional US retail dataset (~10,000 
 
 ---
 
-## About
 
-Built as part of a 5-project finance and analytics portfolio.
-
-Other projects in this portfolio:
-- [Apple Financial KPI Dashboard — Excel](../excel)
-- Market Analysis Report — coming soon
-- Python Stock Analysis — coming soon
-- 3-Statement Financial Model + DCF — coming soon
